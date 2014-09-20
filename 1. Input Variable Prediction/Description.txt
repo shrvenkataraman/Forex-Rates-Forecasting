@@ -2,5 +2,5 @@ The CollectivePrediction.m is the code which is written to predict the input var
 predict the final variable's future values. 
 
 The file uses the trained NAR networks of different input variables and simulates the prediction output of
-those variables which is then fed into the final network that is used to predict the final variable - the
+those variables which is then fed into the final network that is used to predict the values of the final variable - the
 future exchange rate of a particular desired currency. 
